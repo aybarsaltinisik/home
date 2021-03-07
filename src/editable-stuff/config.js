@@ -43,7 +43,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Aybars Altınışık. I am a 3th year Computer Science student at the Computer Engineering department of Bilkent University. I am especially interested in project management, task automation projects and complex algorithms. I am also excited to learn new technologies and enhance myself by acquiring new skills.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing", // TODO
+  resume: require("../editable-stuff/resume.pdf"),
 };
 
 // PROJECTS SECTION
