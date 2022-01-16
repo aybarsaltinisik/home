@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/picture.jpg"),
   imageSize: 375,
   message:
-    "My name is Aybars Altınışık. I am a 3th year Computer Science student at the Computer Engineering department of Bilkent University. I am especially interested in project management, task automation projects and complex algorithms. I am also excited to learn new technologies and enhance myself by acquiring new skills.",
+    "My name is Aybars Altınışık. I am 4th year Computer Science student at the Computer Engineering department of Bilkent University. I am especially interested in computer networks, software architecture, task automation projects and complex algorithms. I am also excited to learn new technologies and enhance myself by acquiring new skills.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
