@@ -42,7 +42,7 @@ const about = {
   imageLink: require("../editable-stuff/picture.jpg"),
   imageSize: 375,
   message:
-    "My name is Aybars Altınışık. I am 4th year Computer Science student at the Computer Engineering department of Bilkent University. I am especially interested in computer networks, software architecture, task automation projects and complex algorithms. I am also excited to learn new technologies and enhance myself by acquiring new skills.",
+    "My name is Aybars Altınışık. I am graduate from the Computer Engineering department of Bilkent University. I am especially interested in computer networks, software architecture, task automation projects and complex algorithms. I am also excited to learn new technologies and enhance myself by acquiring new skills.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -66,20 +66,20 @@ const leadership = {
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
-    { 
-      img: require("../editable-stuff/picture.jpg"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/picture.jpg"),
+      label: "First slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum."
     },
-    { 
-      img: require("../editable-stuff/picture.jpg"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/picture.jpg"),
+      label: "Second slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum."
     },
   ],
   imageSize: {
-    width:"615",
-    height:"450"
+    width: "615",
+    height: "450"
   }
 };
 
@@ -88,23 +88,23 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
     { name: "Java", value: 90 },
-    { name: "Data Structures", value: 85 },
+    { name: "JavaScript/TypeScript", value: 85 },
+    { name: "Data Structures/Algorithms", value: 80 },
+    { name: "Python", value: 75 },
     { name: "C/C++", value: 70 },
-    { name: "TypeScript", value: 75 },
-    { name: "Angular", value: 65 },
-    { name: "HTML/CSS", value: 55 },
     { name: "C#", value: 80 },
+    { name: "Angular", value: 65 },
+    { name: "HTML/CSS", value: 65 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 75 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
-    { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
+    { name: "Problem Solving", value: 90 },
+    { name: "Empathy", value: 85 },
+    { name: "Organization", value: 75 },
     { name: "Creativity", value: 90 },
   ],
 };
@@ -114,8 +114,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for Software Engineering internship opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "aybarsaltinisik@gmail.com",
+    "I'm currently looking for Software Engineering jobs! If you know of available positions suitable for my skill set, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "aybars.altinisik@gmail.com",
 };
 
 const experiences = {
