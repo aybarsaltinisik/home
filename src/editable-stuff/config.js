@@ -55,8 +55,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "aybarsaltinisik", //i.e."johnDoe12Gh"
-  reposLength: 2,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ["booklab", "monopoly-pandemic"],
 };
 
 // Leadership SECTION
@@ -94,7 +94,7 @@ const skills = {
     { name: "Python", value: 75 },
     { name: "C/C++", value: 70 },
     { name: "C#", value: 80 },
-    { name: "Angular", value: 65 },
+    { name: "Software Architecture", value: 70 },
     { name: "HTML/CSS", value: 65 },
   ],
   softSkills: [
