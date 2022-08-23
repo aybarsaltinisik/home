@@ -5,7 +5,7 @@
 
   <p align="center">
     It is a personal static website/portfolio hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://aybarsaltinisik.github.io">aybarsaltinisik.github.io</a>
+    <a href="https://aybarsaltinisik.github.io/home/">aybarsaltinisik.github.io/home/</a>
     <br />
   </p>
 </p>
